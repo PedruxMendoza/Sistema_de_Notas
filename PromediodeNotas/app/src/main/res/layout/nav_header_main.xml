@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="horizontal"
+    android:layout_width="match_parent"
+    android:layout_height="160dp"
+    android:background="@color/yellowDark"
+    android:layout_centerVertical="true"
+    android:paddingTop="40dp"
+    android:paddingLeft="30dp"
+    android:paddingRight="30dp"
+    android:paddingBottom="30dp">
+    <ImageView
+        android:layout_marginRight="12dp"
+        android:background="@drawable/appicon"
+        android:layout_width="80dp"
+        android:layout_height="80dp" />
+    <LinearLayout
+        android:gravity="center"
+        android:layout_centerVertical="true"
+        android:layout_marginTop="10dp"
+        android:orientation="vertical"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content">
+        <TextView
+            android:textSize="18sp"
+            android:textColor="@color/white"
+            android:text="Calculo de Promedio de Notas"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content" />
+    </LinearLayout>
+</LinearLayout>

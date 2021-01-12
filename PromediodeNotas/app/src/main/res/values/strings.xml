@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Promedio de Notas</string>
+    <string name="open">Abierto</string>
+    <string name="close">Cerrado</string>
+    <string name="title_activity_main">Promedio de Notas</string>
+    <string name="title_credits">Creditos</string>
+    <string name="title_notes">Seleccione una Opcion</string>
+    <string name="title_notes_teoric">Nota Teorica</string>
+    <string name="title_notes_labo">Nota Laboratorio</string>
+    <string name="title_result">Promedio Final</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+</resources>
